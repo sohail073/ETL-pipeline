@@ -193,11 +193,11 @@ def main():
         'host': 'localhost',  # Change as needed
         'database': 'cricket_db',  # Change as needed
         'user': 'postgres',  # Change as needed
-        'password': 'sohail@123',  # Change as needed
+        'password': 'your_password',  # Change as needed
         'port': '5432'  # Change as needed
     }
     
-    api_url = 'https://api.cricapi.com/v1/currentMatches?apikey=96d1640e-6af8-4bc0-b114-38ffee85e021&offset=0'
+    api_url = 'https://api.cricapi.com/v1/currentMatches?apikey=[your_key]&offset=0'
     filename = 'current_matches.json'
     
     print("Starting live cricket match monitor with PostgreSQL integration...")
