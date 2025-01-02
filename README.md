@@ -113,11 +113,9 @@ except Exception as e:
 
 ## Author
 Sohil Ansari
-- LinkedIn: [Your Profile]
-- GitHub: [Your Profile]
+- LinkedIn: (https://www.linkedin.com/in/sohil-ansari-4b2ab728a/)
+- GitHub: (https://github.com/sohail073)
 
-## License
-MIT License - see LICENSE file
 
 
 ---
